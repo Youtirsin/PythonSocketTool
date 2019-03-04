@@ -1,2 +1,2 @@
 # PythonSocketTool
-A GUI program that people can use to talk on Internet.A server is required.
+A simpe socket program that's used to talk.A server is required.
